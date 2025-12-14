@@ -1,4 +1,4 @@
-Matlab programs to generate results for each figures in "Schrodinger Equation with Gauge-Invariant Field-Impulse Replacing Potentials and Computation Using LOD-FDTD Method", by E. L. Tan and D. Y. Heh, Aug 2024
+Matlab programs to generate results for each figures in "Schrodinger Equation with Gauge-Invariant Field-Impulse Replacing Potentials and Computation Using LOD-FDTD Method", by E. L. Tan and D. Y. Heh, Aug 2025
 
 -mainfig1.m, for figure 1
 
